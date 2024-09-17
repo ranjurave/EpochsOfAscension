@@ -15,5 +15,5 @@ class EPOCHSOFASCENSION_API UGravityAdjustedMovementComponent : public UCharacte
 	GENERATED_BODY()
 
 		UFUNCTION(BlueprintCallable)
-		void SetGravityDirection(const FVector& GravityDirection);
+		void SetGravityDirection(const FVector& GravityDir);
 };

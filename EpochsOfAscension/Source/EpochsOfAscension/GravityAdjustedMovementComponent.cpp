@@ -3,8 +3,8 @@
 
 #include "GravityAdjustedMovementComponent.h"
 
-void UGravityAdjustedMovementComponent::SetGravityDirection(const FVector& GravityDirection) {
-	Super::SetGravityDirection(GravityDirection);
+void UGravityAdjustedMovementComponent::SetGravityDirection(const FVector& GravityDir) {
+	Super::SetGravityDirection(GravityDir);
 }
 
 
