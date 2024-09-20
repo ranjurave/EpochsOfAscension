@@ -69,9 +69,9 @@ Successfully collect the required resources and technology to repair or build a 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/EpochsOfAscension.git
+   git clone https://github.com/ranjurave/EpochsOfAscension.git
    ```
-2. Run the game (details to be added based on the platform, engine, or framework).
+2. Run the game in Unreal Engine (Link to build will be added later)
 
 ---
 
