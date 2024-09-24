@@ -10,14 +10,14 @@
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
 #include "InputActionValue.h"
-#include "PlanetMovementComponent.h"
+//#include "PlanetMovementComponent.h"
 
 DEFINE_LOG_CATEGORY(LogTemplateCharacter);
 
 //////////////////////////////////////////////////////////////////////////
 // AEpochsOfAscensionCharacter
 //AEpochsOfAscensionCharacter::AEpochsOfAscensionCharacter()
-AEpochsOfAscensionCharacter::AEpochsOfAscensionCharacter(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer.SetDefaultSubobjectClass<UPlanetMovementComponent>(CharacterMovementComponentName))
+AEpochsOfAscensionCharacter::AEpochsOfAscensionCharacter()
 {
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
