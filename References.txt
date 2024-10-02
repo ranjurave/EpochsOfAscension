@@ -3,3 +3,19 @@ https://www.youtube.com/watch?v=F5VD66t9x3s&list=PLNTm9yU0zou7bipRGFV4RXC965-XAQ
 
 todo flying with pawn
 https://youtu.be/pwtKcDA-RTI?list=PLSR8AqfTOUkbCz75oX72PoioiS_-rOeJX
+
+
+Beta testing Player input
+Character diagonal movement
+Spaceship movement
+WAD for move forward left and right
+AD move rotates ship
+WD and WA to move diagonally
+S to move backwards (reverse)
+Q tilt up
+E tilt down
+QW tilt up and move forward
+EW tilt down and move forward
+Mouse just for Third person view
+
+L for landing
