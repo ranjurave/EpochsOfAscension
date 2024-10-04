@@ -19,3 +19,6 @@ EW tilt down and move forward
 Mouse just for Third person view
 
 L for landing
+
+Fix gimbal lock
+https://youtu.be/KqbqZ3IY1II
