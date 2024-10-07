@@ -12,7 +12,7 @@
 #include "InputActionValue.h"
 //#include "PlanetMovementComponent.h"
 
-DEFINE_LOG_CATEGORY(LogTemplateCharacter);
+//DEFINE_LOG_CATEGORY(LogTemplateCharacter);
 
 //////////////////////////////////////////////////////////////////////////
 // AEpochsOfAscensionCharacter

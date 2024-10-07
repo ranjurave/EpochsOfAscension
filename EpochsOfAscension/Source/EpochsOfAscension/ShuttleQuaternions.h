@@ -7,12 +7,11 @@
 #include "ShuttleQuaternions.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class EPOCHSOFASCENSION_API UShuttleQuaternions : public UBlueprintFunctionLibrary
-{
-	GENERATED_BODY()
+class EPOCHSOFASCENSION_API UShuttleQuaternions : public UBlueprintFunctionLibrary {
+    GENERATED_BODY()
 public:
 
     // Convert Euler Rotations To Quaternions
