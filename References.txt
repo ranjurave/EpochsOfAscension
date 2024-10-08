@@ -4,6 +4,12 @@ https://www.youtube.com/watch?v=F5VD66t9x3s&list=PLNTm9yU0zou7bipRGFV4RXC965-XAQ
 todo flying with pawn
 https://youtu.be/pwtKcDA-RTI?list=PLSR8AqfTOUkbCz75oX72PoioiS_-rOeJX
 
+Fix gimbal lock
+https://youtu.be/KqbqZ3IY1II
+
+Assets 
+https://www.unrealengine.com/marketplace/en-US/product/mission-to-minerva
+
 
 Beta testing Player input
 Character diagonal movement
@@ -19,7 +25,6 @@ QW tilt up and move forward
 EW tilt down and move forward
 Mouse just for Third person view
 
-L for landing
+Space for thrust up
+Left Ctrl for thrust down
 
-Fix gimbal lock
-https://youtu.be/KqbqZ3IY1II
