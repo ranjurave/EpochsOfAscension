@@ -1,7 +1,7 @@
-# EpochsOfAscension
+# Epochs of Ascension
 
 ## Game Overview  
-**EpochsOfAscension** is a sci-fi colony simulation and survival game set on a distant, hostile planet. Players will build and manage a colony, navigate alien threats, handle resource management, and overcome survival challenges. Utilize both first and third-person perspectives to explore, mine resources, construct bases, and withstand environmental hazards.
+**Epochs of Ascension** is a sci-fi colony simulation and survival game set on a distant, hostile planet. Players will build and manage a colony, navigate alien threats, handle resource management, and overcome survival challenges. Utilize both first and third-person perspectives to explore, mine resources, construct bases, and withstand environmental hazards.
 
 ---
 
